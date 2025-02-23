@@ -6,4 +6,4 @@
 编写环境：
 win11 64位专业版 24H2 使用Python编写
 
-使用教程：
+使用教程：https://www.bilibili.com/video/BV1mkA2erELh/
